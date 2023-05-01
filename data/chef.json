@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Gordon Ramsay",
+    "experience": "30 years",
+    "recipes": ["Beef Wellington", "Scrambled eggs", "Lamb sauce"],
+    "like": 15000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gordon_Ramsay.jpg/220px-Gordon_Ramsay.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Alice Waters",
+    "experience": "50 years",
+    "recipes": ["Salad", "Pizza", "Pasta"],
+    "like": 18000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Alice_Waters_at_Food_and_Wine_Classic_in_Aspen_%28cropped%29.jpg/220px-Alice_Waters_at_Food_and_Wine_Classic_in_Aspen_%28cropped%29.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Massimo Bottura",
+    "experience": "30 years",
+    "recipes": ["Parmigiano Reggiano", "Tortellini", "Anolini"],
+    "like": 25000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Massimo_Bottura_2019_%28cropped%29.jpg/220px-Massimo_Bottura_2019_%28cropped%29.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Christina Tosi",
+    "experience": "15 years",
+    "recipes": ["Milk Bar Pie", "Birthday Cake", "Crack Pie"],
+    "like": 30000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Christina_Tosi_%2848692790192%29_%28cropped%29.jpg/220px-Christina_Tosi_%2848692790192%29_%28cropped%29.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Yotam Ottolenghi",
+    "experience": "20 years",
+    "recipes": ["Hummus", "Shakshuka", "Roasted Vegetables"],
+    "like": 20000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Yotam_Ottolenghi_at_Google_Zurich_2013_%28cropped%29.jpg/220px-Yotam_Ottolenghi_at_Google_Zurich_2013_%28cropped%29.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ina Garten",
+    "experience": "30 years",
+    "recipes": ["Roast Chicken", "Pesto", "Chocolate Cake"],
+    "like": 25000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ina_Garten_at_the_Miami_Book_Fair_International_2012.jpg/220px-Ina_Garten_at_the_Miami_Book_Fair_International_2012.jpg"
+  }
+]
