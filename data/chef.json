@@ -1,50 +1,62 @@
 [
   {
     "id": 1,
-    "name": "Gordon Ramsay",
+    "name": "Cecilia Chiang",
     "experience": "30 years",
-    "recipes": ["Beef Wellington", "Scrambled eggs", "Lamb sauce"],
+    "recipes": ["Kung Pao chicken", "Peking duck", "Sweet and sour pork"],
     "like": 15000,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gordon_Ramsay.jpg/220px-Gordon_Ramsay.jpg"
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHjXYW6EERKXeGIFRKd7ft4NK1q5ed6MYVNL0NkOo7gbsEK2na",
+    "banner": "https://media.istockphoto.com/id/686478952/photo/busy-cooking.jpg?s=2048x2048&w=is&k=20&c=lNUOKg8Lh_PLKwJL5VraPuIkMY9TNEGZwbb9mLixunc=",
+    "bio": "Cecilia Sun Yun Chiang was a Chinese-American restaurateur and chef, best known for founding and managing the Mandarin restaurant in San Francisco, California."
   },
   {
     "id": 2,
-    "name": "Alice Waters",
+    "name": "su sannafoo",
     "experience": "50 years",
-    "recipes": ["Salad", "Pizza", "Pasta"],
+    "recipes": ["Wonton", "Chop suey", "Egg roll"],
     "like": 18000,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Alice_Waters_at_Food_and_Wine_Classic_in_Aspen_%28cropped%29.jpg/220px-Alice_Waters_at_Food_and_Wine_Classic_in_Aspen_%28cropped%29.jpg"
+    "image": "https://www.thespruceeats.com/thmb/8zjDnq304ULaMHoxiA5MeZlxJUY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/susanna-foo-56b6b5c25f9b5829f83421f5.jpg",
+    "banner": "https://media.istockphoto.com/id/621141664/photo/chef-in-restaurant-kitchen-at-stove-with-high-burning-flames.jpg?s=2048x2048&w=is&k=20&c=0dILJiIBf17ActqAl40A1FYei3x2hV2pk1CQ1dLvhxE=",
+    "bio": "Susanna Foo is a Chinese chef best known for her work in Chinese/French fusion at her self titled Susanna Foo restaurant in Philadelphia, Pennsylvania. She has also owned and run other restaurants in Philadelphia and Atlantic City, and is a two-time James Beard Foundation Award winner."
   },
   {
     "id": 3,
-    "name": "Massimo Bottura",
+    "name": "Wang Gang",
     "experience": "30 years",
-    "recipes": ["Parmigiano Reggiano", "Tortellini", "Anolini"],
+    "recipes": ["Shandong cuisine", "Mapo tofu", "Lo mein"],
     "like": 25000,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Massimo_Bottura_2019_%28cropped%29.jpg/220px-Massimo_Bottura_2019_%28cropped%29.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/%E7%8E%8B%E5%89%9B_%E5%BB%9A%E5%B8%AB.jpg/160px-%E7%8E%8B%E5%89%9B_%E5%BB%9A%E5%B8%AB.jpg",
+    "banner": "https://media.istockphoto.com/id/1136673990/photo/master-chef-holding-chopsticks-with-flying-sushi.jpg?s=2048x2048&w=is&k=20&c=G0qcQPmDGhcLtlb-tqxMySqiCDUNzYsd0Ouv-5Oxzfg=",
+    "bio": "Wang Gang is a Chinese chef and Internet personality. He was born in Fushun County, Zigong, Sichuan, and decided to pursue a culinary career at age 15. He has 5 million followers across Xigua Video, bilibili, Weibo, and YouTube as of 2018, and has been praised for his simple, levelheaded approach to cooking"
   },
   {
     "id": 4,
-    "name": "Christina Tosi",
+    "name": "Shirley Chung",
     "experience": "15 years",
-    "recipes": ["Milk Bar Pie", "Birthday Cake", "Crack Pie"],
+    "recipes": ["Wonton", "Chop suey", "Egg roll"],
     "like": 30000,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Christina_Tosi_%2848692790192%29_%28cropped%29.jpg/220px-Christina_Tosi_%2848692790192%29_%28cropped%29.jpg"
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9_QR97KiSqSd1v4ax09OUR-EmPUG3_SK4fK0A7Q-0_FxO537y",
+    "banner": "https://media.istockphoto.com/id/584747904/photo/stir-fried-vegetables.jpg?s=2048x2048&w=is&k=20&c=Rj6eti7PAL3sygxD8x4XOu1puDf71GrPlbNTkl1Yy9E=",
+    "bio": "Susanna Foo is a Chinese chef best known for her work in Chinese/French fusion at her self titled Susanna Foo restaurant in Philadelphia, Pennsylvania. She has also owned and run other restaurants in Philadelphia and Atlantic City, and is a two-time James Beard Foundation Award winner. Wikipedia"
   },
   {
     "id": 5,
-    "name": "Yotam Ottolenghi",
+    "name": "Ken Hom",
     "experience": "20 years",
-    "recipes": ["Hummus", "Shakshuka", "Roasted Vegetables"],
+    "recipes": ["Wonton", "Chop suey", "Egg roll"],
     "like": 20000,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Yotam_Ottolenghi_at_Google_Zurich_2013_%28cropped%29.jpg/220px-Yotam_Ottolenghi_at_Google_Zurich_2013_%28cropped%29.jpg"
+    "image": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcRJ6hsxTib-YHyTYN_7BZW0yBnSPEC-rx1M__UHB83gW92fWCjVVpSNaYd39ugYLNOJ",
+    "banner": "https://media.istockphoto.com/id/474757282/photo/iron-squid.jpg?s=2048x2048&w=is&k=20&c=aZHye1hKCJImn8qqqfTrTdOaTLcfa4ccmRwYClaYRP4=",
+    "bio": "Ken Hom CBE is the man who showed the British how to cook Asian food. A leading authority on Chinese cuisine, he is one of the most respected and celebrated."
   },
   {
     "id": 6,
-    "name": "Ina Garten",
+    "name": "Alvin Leung",
     "experience": "30 years",
-    "recipes": ["Roast Chicken", "Pesto", "Chocolate Cake"],
+    "recipes": ["Shandong cuisine", "Mapo tofu", "Lo mein"],
     "like": 25000,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ina_Garten_at_the_Miami_Book_Fair_International_2012.jpg/220px-Ina_Garten_at_the_Miami_Book_Fair_International_2012.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuAljbUd7YrceOK8pZr5IMPS9rHmJeTOMn8AStxOj7-r1tgZ8h",
+    "banner": "https://media.istockphoto.com/id/913931820/photo/chef-in-restaurant-kitchen-at-stove-with-high-burning-flames.jpg?s=2048x2048&w=is&k=20&c=-9xKU0_YYYiQcRmm1JJtfJVjwiGhZgN3mUxFdkTOiR0=",
+    "bio": "Alvin Leung King-lon, is an English-born Hong Kong-Canadian chef and television personality. He holds two Michelin stars at his restaurant Bo Innovation and one Michelin star at Bo London"
   }
 ]
